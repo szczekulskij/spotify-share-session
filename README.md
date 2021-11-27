@@ -3,8 +3,8 @@ web application for sharing spotify's queue live w. chat and ai suggested songs
 
 ## Conceptual:
 ### Basic functionality:
-* Have a website on which there is a music queue that plays music 
-* Have multiple users logged in that can add their songs to the queue
+* Website with music queue 
+* Enable multiple users accessing queue in live time, let them add their songs to the queue
 
 ### Extended functionality:
 #### backend & frontend:
