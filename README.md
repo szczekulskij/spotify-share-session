@@ -15,7 +15,7 @@ web application for sharing spotify's queue live w. chat and ai suggested songs
 
 #### AI:
 * AI 'quick' song reccommender - 'based on your **currentely** played song - you should listen to ...'
-* AI 'long-term' song reccommender - 'based on the **last 10 songs/30 minutes** - you should try ...'
+* AI 'long-term' song reccommender - 'based on the **last 10 songs/30 minutes** (session vibe) - you should try ...'
 
 #### Database:
 * Save users login & password (hashed)
