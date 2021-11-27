@@ -19,7 +19,7 @@ web application for sharing spotify's queue live w. chat and ai suggested songs
 
 #### Database:
 * Save users login & password (hashed)
-* Save users played songs in database to be used for AI reccommender
+* Save users songs history in database to be used for AI reccommender
 
 ## Initial Plan:
 ### Initial blockers:
