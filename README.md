@@ -17,7 +17,7 @@ web application for sharing spotify's queue live w. chat and ai suggested songs
 * AI 'quick' song reccommender - 'based on your **currentely** played song - you should listen to ...'
 * AI 'long-term' song reccommender - 'based on the **last 10 songs/30 minutes** (session vibe) - you should try ...'
 * We won't have enough data from the website to do anything useful with it -> but there should be sources online that we should be able to use to train AI? Yet to research
-* It'd be cool to use GPT-3 (NLP AI) somewhere in this project - openai just realeased it to public use - 180 bilion parameters state of the art NLP AI - perhaps have a friendly bot you can speak with : P - it can also write novels, generate code, quizes?! etc. [openAI article](https://openai.com/blog/gpt-3-apps/), [use cases](https://medium.com/eoraa-co/trending-use-cases-of-gpt-3-by-openai-56318b6a9184)
+* It'd be cool to use GPT-3 (NLP AI) somewhere in this project - openai just realeased it to public use - 180 bilion parameters state of the art NLP AI - perhaps have a friendly bot you can speak with : P - it can also write novels, generate code, quizes?! etc. [openAI article](https://openai.com/blog/gpt-3-apps/), [Use Cases](https://medium.com/eoraa-co/trending-use-cases-of-gpt-3-by-openai-56318b6a9184)
 
 #### Database:
 * Save users login & password (hashed)
